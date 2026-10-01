@@ -1,0 +1,17 @@
+# 1 bed house for sale
+
+> Test Property Please ignore Test Property Please ignore Test Property Please ignoreTest Property Please ignore Test Property Please ignore
+
+## Fakta
+- Typ: house
+- Druh nabídky: sale
+- Dispozice: 1 bed
+- Plocha: 95 m²
+- Energetická náročnost: D
+- Lokalita: T1 Cottage, Caherdaniel
+- Cena: 350 000 €
+
+## Kontakt
+- Telefon: +353123456789
+- Kancelář: MyHome Agent 10
+- Web kanceláře: https://www.myhome.ie/
